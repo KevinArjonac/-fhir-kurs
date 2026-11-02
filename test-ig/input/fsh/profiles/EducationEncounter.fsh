@@ -1,5 +1,5 @@
-profile: EducationEncounter
-parent: Encuonter
+Profile: EducationEncounter
+Parent: Encuonter
 Id: EducationEncounter
 Title: "Min fina profil"
 * subject 1..1 MS
