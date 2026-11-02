@@ -2,5 +2,5 @@ profile: EducationEncounter
 parent: Encuonter
 Id: EducationEncounter
 Title: "Min fina profil"
-*subject 1..1 MS
-*subject only reference(EducationPatient)
+* subject 1..1 MS
+* subject only reference(EducationPatient)
